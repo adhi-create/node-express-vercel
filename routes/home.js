@@ -6,7 +6,7 @@ router.get("/", async (req, res, next) => {
     
     title: "1",
     message: "The app is working properly!",
-    id:"1",
+    
   });
 });
 
